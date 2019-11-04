@@ -8,3 +8,5 @@ Implementation of Priority Queue based on binary heap with time complexity O(nlo
 Implementation of: binary search tree, red black tree and splay tree.
 ### **Flow**</br>
 Programs which count maximum flow in a hypercube of various dimensions and maximum matching of two disjoint vertex sets. Programs could also create linear programming model of those problems for glpk program.
+### **StringMatchnig**</br>
+Implementation of two string matching algorithms. First algorithm uses deterministic finite automata. Second is Knuth-Morris-Pratt algorithm.
